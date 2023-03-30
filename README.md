@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development (Javascript, React.js, Next.js, Sass, and GraphQL)**
 
-- 💬 Ask me about **React.js and Next.js**
+- 💬 Ask me about **React.js, Next.js**, and **Typescript**
 
 - 📫 How to reach me via **iqbal.wijonarko@alumni.ui.ac.id**
 
