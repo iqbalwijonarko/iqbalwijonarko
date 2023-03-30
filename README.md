@@ -11,7 +11,7 @@
 
 - 📫 How to reach me via **iqbal.wijonarko@alumni.ui.ac.id**
 
-- 🎓 I have a bachelor's degree in Computer Science from the University of Indonesia
+- 🎓 I have a **bachelor's degree** in **Computer Science** from **the University of Indonesia**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
