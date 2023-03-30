@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Iqbal Wijonarko</h1>
+<h1 align="center">Muhammad Iqbal Wijonarko</h1>
 <h3 align="center">A passionate frontend engineer from Indonesia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqbalwijonarko&label=Profile%20views&color=0e75b6&style=flat" alt="iqbalwijonarko" /> </p>
@@ -37,3 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iqbalwijonarko&show_icons=true&locale=en&theme=tokyonight" alt="iqbalwijonarko" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalwijonarko&&theme=tokyonight" alt="iqbalwijonarko" /></p>
+  
+<!--   ![Metrics](https://metrics.lecoq.io/sultanfariz?template=classic&base.community=0&base.metadata=0&isocalendar=1&lines=1&achievements=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FJakarta) -->
