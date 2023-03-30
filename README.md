@@ -41,8 +41,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iqbalwijonarko&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="iqbalwijonarko" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iqbalwijonarko&show_icons=true&locale=en&theme=tokyonight" alt="iqbalwijonarko" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iqbalwijonarko&show_icons=true&locale=en&theme=tokyonight" alt="iqbalwijonarko" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalwijonarko&&theme=tokyonight" alt="iqbalwijonarko" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalwijonarko&&theme=tokyonight" alt="iqbalwijonarko" /></p>
   
 <!--   ![Metrics](https://metrics.lecoq.io/sultanfariz?template=classic&base.community=0&base.metadata=0&isocalendar=1&lines=1&achievements=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FJakarta) -->
