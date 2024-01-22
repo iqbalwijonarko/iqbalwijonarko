@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqbalwijonarko&label=Profile%20views&color=0e75b6&style=flat" alt="iqbalwijonarko" /> </p>
 
-- 🧑🏻‍💻 I'm currently working as a **Frontend Engineer**
+- 🧑🏻‍💻 With a background in Frontend Engineering and Computer Science, I'm transitioning to **Product Management**, aiming to merge technical skills with strategic development for innovative solutions.
 
-- 🌱 I’m currently learning **Web Development (Javascript, React.js, Next.js, Sass, and GraphQL)**
+- 💬 Ask me about **Product Management and Web Development**
 
-- 💬 Ask me about **React.js, Next.js**, and **Typescript**
-
-- 📫 How to reach me via **iqbal.wijonarko@alumni.ui.ac.id**
+- 📫 How to reach me via **iqball.wijonarko@gmail.com**
 
 - 🎓 I have a **bachelor's degree** in **Computer Science** from **the University of Indonesia**
 
